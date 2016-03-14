@@ -1,3 +1,5 @@
+# something
+
 # Sinatra
 
 Sinatra is a [DSL](https://en.wikipedia.org/wiki/Domain-specific_language) for
